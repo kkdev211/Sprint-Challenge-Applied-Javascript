@@ -34,7 +34,7 @@ Document Object Model- It's a tree representation of HTML elements that allows y
 
 2. What is an event?
 
-An event are things that happen to HTML elements- click, scroll, hover
+Events are things that happen to HTML elements- click, scroll, hover.
 
 3. What is an event listener?
 
